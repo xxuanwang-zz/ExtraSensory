@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/xxuan02/xuanwang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a Master student in the [School of Information](https://www.ischool.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/). My interested area is Data Science. I like working in deeping learning, artificial intelligence and predictive analytics in general.
 
 ### Markdown
 
